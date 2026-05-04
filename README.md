@@ -5,5 +5,7 @@ First make sure required packages are installed and run 'python3 Main.py'
 
 Required packages: 
 pandas
-from sklearn
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
 matplotlib
